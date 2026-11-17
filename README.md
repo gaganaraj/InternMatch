@@ -252,3 +252,9 @@ The platform provides students with relevant internship opportunities while enab
 
 **GitHub Repository:**  
 https://github.com/gaganaraj/InternMatch
+
+## 12. Entity Relationship Diagram
+
+The following document represents the Chen ER model of the InternMatch database, including all nine entities, their attributes, primary keys, foreign keys and relationships.
+
+[View InternMatch Chen ER Diagram](docs/InternMatch_ER_Diagram.pdf)
