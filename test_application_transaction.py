@@ -19,7 +19,7 @@ try:
     cursor = connection.cursor()
 
     student_id = 2
-    internship_id = 1
+    internship_id = 3
 
     # Check whether this application already exists
     cursor.execute("""
@@ -79,3 +79,4 @@ except Exception:
 
 finally:
     connection.close()
+
